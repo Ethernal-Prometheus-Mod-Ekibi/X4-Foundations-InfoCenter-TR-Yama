@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+    <page id="9814072" title="Info Center" voice="no">
+		<!-- Başlıklar -->
+		<t id="1">Filtre belirtilmedi - Filtreleri filtre ayarlarından ekleyin!</t>
+		<t id="2">Bilgi Merkezi</t>
+		<t id="3">Bilgi Merkezi Filtreleri</t>
+		<!-- Nesne Türü Filtreleri -->
+		<t id="10">Nesne Türleri</t>
+		<t id="11">İstasyonları Göster</t>
+		<t id="12">Kanatları Göster</t>
+		<t id="13">Atanmamış Gemileri Göster</t>
+		<!-- Gemilerin Sınıfı Filtreleri -->
+		<t id="20">Gemi Sınıfları</t>
+		<t id="21">Sınıf S Gemileri Göster</t>
+		<t id="22">Sınıf M Gemileri Göster</t>
+		<t id="23">Sınıf L Gemileri Göster</t>
+		<t id="24">Sınıf XL Gemileri Göster</t>
+		<!-- Yerleştirilebilir Nesne Filtreleri -->
+		<t id="30">Yerleştirilebilirler</t>
+		<t id="31">Lazer Kulelerini Göster</t>
+		<t id="32">Mayınları Göster</t>
+		<t id="33">Navigasyon İşaretlerini Göster</t>
+		<t id="34">Kaynak Sondalarını Göster</t>
+		<t id="35">Uyduları Göster</t>
+		<t id="36">Kilitli Kutuları Göster</t>
+		<!-- Gemi Türü Filtreleri -->
+		<t id="40">Gemi Türleri</t>
+		<t id="41">Savaş Gemilerini Göster</t>
+		<t id="42">Ticaret Gemilerini Göster</t>
+		<t id="43">Madencilik Gemilerini Göster</t>
+		<t id="44">İnşaat Gemilerini Göster</t>
+		<t id="45">Yeniden Doldurma Gemilerini Göster</t>
+		<t id="46">Çekme Gemilerini Göster</t>
+		<t id="47">Geridönüşüm Gemilerini Göster</t>
+		<!-- Diğer Filtreler -->
+		<t id="50">Diğer</t>
+		<t id="51">Kalkan/Gövde Çubuklarını Göster</t>
+		<t id="52">Ek ticaretçi bilgisini Göster</t>
+		<t id="53">Ek madenci bilgisini Göster</t>
+		<t id="54">İstasyon Bakiyesini Göster</t>
+		<t id="55">Sıralama Seçeneklerini Göster</t>
+		<t id="56">Basit Görünüm Seçeneklerini Göster</t>
+		<t id="57">Sıralı Satır Renklerini Göster</t>
+		<!-- Kısayol -->
+		<t id="60">Bilgi Merkezini Aç</t>
+		<t id="61">Bilgi merkezi harita menüsünü açar.</t>
+		<!-- Diğer Metinler -->
+		<t id="100">İnşa Halinde!</t>
+		<t id="101">Denge</t>
+		<t id="102">Ticaret:</t>
+		<t id="103">Kullanılan Depolama:</t>
+		<t id="104">Sektör</t>
+		<t id="105">Sipariş</t>
+		<t id="106">Basit görünüm seçenekleri</t>
+		<t id="107">Basit görünümü göster</t>
+		<t id="108">Basit görünümü gizle</t>
+		<t id="109">Sadece hasarlı gemileri göster</t>
+		<t id="110">Sadece hasarlı gemileri gizle</t>
+    </page>
+</language>
