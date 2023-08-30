@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content id="InfoCenter_TR"
 name="Info Center - TR Patch"
-author="HeX"
+author="EPME - Eternal Prometheus Mod Ekibi"
 version="293"
 date="2023-08-09"
 save="false"
 enabled="1">
 <text language=""
 description="
-HeX tarafından Türkçeleştirilmiştir.&#13;&#10;
+EPME - Eternal Prometheus Mod Ekibi tarafından Türkçeleştirilmiştir.&#13;&#10;
 Harita menüsündeki sol kenar çubuğuna ekstra gemi bilgileri içeren yeni bir menü ekler.
 "/>
 <dependency id="InfoCenter" optional="false" name="Info Center"/>
